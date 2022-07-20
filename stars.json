@@ -1,25 +1,25 @@
 [
   {
     "full_name": "danielroe/magic-regexp",
-    "stargazers_count": 789,
-    "open_issues_count": 6,
-    "forks_count": 9
+    "stargazers_count": 877,
+    "open_issues_count": 5,
+    "forks_count": 10
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 35736,
-    "open_issues_count": 272,
-    "forks_count": 2159
+    "stargazers_count": 35766,
+    "open_issues_count": 273,
+    "forks_count": 2167
   },
   {
     "full_name": "Qovery/Replibyte",
-    "stargazers_count": 2823,
-    "open_issues_count": 52,
+    "stargazers_count": 2844,
+    "open_issues_count": 53,
     "forks_count": 76
   },
   {
     "full_name": "dragonflydb/dragonfly",
-    "stargazers_count": 8943,
+    "stargazers_count": 8995,
     "open_issues_count": 32,
     "forks_count": 171
   },
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 4813,
-    "open_issues_count": 66,
-    "forks_count": 277
+    "stargazers_count": 4823,
+    "open_issues_count": 72,
+    "forks_count": 278
   },
   {
     "full_name": "lowmess/lowmess.com",
@@ -43,13 +43,13 @@
   },
   {
     "full_name": "tj/git-extras",
-    "stargazers_count": 15689,
-    "open_issues_count": 127,
+    "stargazers_count": 15690,
+    "open_issues_count": 128,
     "forks_count": 1168
   },
   {
     "full_name": "mattpocock/ts-error-translator",
-    "stargazers_count": 1590,
+    "stargazers_count": 1592,
     "open_issues_count": 18,
     "forks_count": 48
   },
@@ -62,20 +62,20 @@
   {
     "full_name": "barecheck/code-coverage-action",
     "stargazers_count": 25,
-    "open_issues_count": 14,
+    "open_issues_count": 10,
     "forks_count": 6
   },
   {
     "full_name": "ellie/atuin",
-    "stargazers_count": 3403,
+    "stargazers_count": 3405,
     "open_issues_count": 68,
-    "forks_count": 105
+    "forks_count": 106
   },
   {
     "full_name": "starship/starship",
-    "stargazers_count": 27399,
-    "open_issues_count": 426,
-    "forks_count": 1150
+    "stargazers_count": 27415,
+    "open_issues_count": 424,
+    "forks_count": 1149
   },
   {
     "full_name": "duolingo/metasearch",
@@ -85,39 +85,39 @@
   },
   {
     "full_name": "remix-run/remix",
-    "stargazers_count": 18155,
-    "open_issues_count": 313,
-    "forks_count": 1427
+    "stargazers_count": 18189,
+    "open_issues_count": 312,
+    "forks_count": 1430
   },
   {
     "full_name": "craftzdog/craftzdog-homepage",
-    "stargazers_count": 1404,
+    "stargazers_count": 1407,
     "open_issues_count": 1,
-    "forks_count": 431
+    "forks_count": 434
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 9290,
-    "open_issues_count": 76,
-    "forks_count": 353
+    "stargazers_count": 9331,
+    "open_issues_count": 75,
+    "forks_count": 352
   },
   {
     "full_name": "redis/node-redis",
-    "stargazers_count": 15336,
-    "open_issues_count": 208,
+    "stargazers_count": 15340,
+    "open_issues_count": 209,
     "forks_count": 1661
   },
   {
     "full_name": "arielweinberger/nestjs-course-task-management",
     "stargazers_count": 588,
-    "open_issues_count": 16,
+    "open_issues_count": 17,
     "forks_count": 341
   },
   {
     "full_name": "nestjs/nest",
-    "stargazers_count": 48716,
-    "open_issues_count": 63,
-    "forks_count": 5597
+    "stargazers_count": 48737,
+    "open_issues_count": 64,
+    "forks_count": 5608
   },
   {
     "full_name": "kalkayan/dotfiles",
@@ -127,19 +127,19 @@
   },
   {
     "full_name": "viraptor/reverse-interview",
-    "stargazers_count": 23377,
+    "stargazers_count": 23391,
     "open_issues_count": 24,
-    "forks_count": 1806
+    "forks_count": 1807
   },
   {
     "full_name": "cboard-org/cboard",
     "stargazers_count": 557,
-    "open_issues_count": 83,
-    "forks_count": 133
+    "open_issues_count": 84,
+    "forks_count": 134
   },
   {
     "full_name": "FormidableLabs/react-native-app-auth",
-    "stargazers_count": 1473,
+    "stargazers_count": 1474,
     "open_issues_count": 54,
     "forks_count": 379
   },
@@ -157,13 +157,13 @@
   },
   {
     "full_name": "infinitered/ignite",
-    "stargazers_count": 14018,
-    "open_issues_count": 77,
+    "stargazers_count": 14022,
+    "open_issues_count": 78,
     "forks_count": 1145
   },
   {
     "full_name": "RealPeha/This-Repo-Has-1736-Stars",
-    "stargazers_count": 1736,
+    "stargazers_count": 1744,
     "open_issues_count": 7,
     "forks_count": 17
   },
