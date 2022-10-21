@@ -1,45 +1,45 @@
 [
   {
     "full_name": "total-typescript/beginners-typescript-tutorial",
-    "stargazers_count": 6564,
-    "open_issues_count": 1,
-    "forks_count": 672
+    "stargazers_count": 6595,
+    "open_issues_count": 2,
+    "forks_count": 682
   },
   {
     "full_name": "Twipped/InterviewThis",
-    "stargazers_count": 6260,
+    "stargazers_count": 6265,
     "open_issues_count": 2,
     "forks_count": 395
   },
   {
     "full_name": "Unleash/unleash",
-    "stargazers_count": 6507,
-    "open_issues_count": 40,
-    "forks_count": 438
+    "stargazers_count": 6517,
+    "open_issues_count": 44,
+    "forks_count": 439
   },
   {
     "full_name": "danielroe/magic-regexp",
-    "stargazers_count": 1349,
+    "stargazers_count": 1353,
     "open_issues_count": 9,
     "forks_count": 20
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 39797,
-    "open_issues_count": 238,
-    "forks_count": 2463
+    "stargazers_count": 39999,
+    "open_issues_count": 221,
+    "forks_count": 2473
   },
   {
     "full_name": "Qovery/Replibyte",
-    "stargazers_count": 3217,
-    "open_issues_count": 57,
-    "forks_count": 98
+    "stargazers_count": 3228,
+    "open_issues_count": 58,
+    "forks_count": 99
   },
   {
     "full_name": "dragonflydb/dragonfly",
-    "stargazers_count": 14287,
-    "open_issues_count": 54,
-    "forks_count": 426
+    "stargazers_count": 15246,
+    "open_issues_count": 52,
+    "forks_count": 471
   },
   {
     "full_name": "Nican/Furland",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 10761,
-    "open_issues_count": 129,
-    "forks_count": 659
+    "stargazers_count": 10844,
+    "open_issues_count": 128,
+    "forks_count": 673
   },
   {
     "full_name": "lowmess/lowmess.com",
@@ -62,12 +62,12 @@
   {
     "full_name": "tj/git-extras",
     "stargazers_count": 15878,
-    "open_issues_count": 125,
+    "open_issues_count": 126,
     "forks_count": 1187
   },
   {
     "full_name": "mattpocock/ts-error-translator",
-    "stargazers_count": 1775,
+    "stargazers_count": 1778,
     "open_issues_count": 41,
     "forks_count": 66
   },
@@ -80,62 +80,62 @@
   {
     "full_name": "barecheck/code-coverage-action",
     "stargazers_count": 25,
-    "open_issues_count": 13,
+    "open_issues_count": 12,
     "forks_count": 7
   },
   {
     "full_name": "ellie/atuin",
-    "stargazers_count": 3906,
-    "open_issues_count": 74,
-    "forks_count": 124
+    "stargazers_count": 3932,
+    "open_issues_count": 72,
+    "forks_count": 127
   },
   {
     "full_name": "starship/starship",
-    "stargazers_count": 29564,
-    "open_issues_count": 473,
-    "forks_count": 1235
+    "stargazers_count": 29709,
+    "open_issues_count": 477,
+    "forks_count": 1244
   },
   {
     "full_name": "duolingo/metasearch",
-    "stargazers_count": 264,
+    "stargazers_count": 265,
     "open_issues_count": 11,
     "forks_count": 34
   },
   {
     "full_name": "remix-run/remix",
-    "stargazers_count": 19760,
-    "open_issues_count": 335,
-    "forks_count": 1595
+    "stargazers_count": 19827,
+    "open_issues_count": 334,
+    "forks_count": 1594
   },
   {
     "full_name": "craftzdog/craftzdog-homepage",
-    "stargazers_count": 1643,
+    "stargazers_count": 1644,
     "open_issues_count": 0,
-    "forks_count": 480
+    "forks_count": 481
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 12533,
-    "open_issues_count": 124,
-    "forks_count": 459
+    "stargazers_count": 12690,
+    "open_issues_count": 120,
+    "forks_count": 464
   },
   {
     "full_name": "redis/node-redis",
-    "stargazers_count": 15597,
+    "stargazers_count": 15609,
     "open_issues_count": 238,
-    "forks_count": 1717
+    "forks_count": 1722
   },
   {
     "full_name": "arielweinberger/nestjs-course-task-management",
-    "stargazers_count": 619,
+    "stargazers_count": 621,
     "open_issues_count": 18,
-    "forks_count": 364
+    "forks_count": 366
   },
   {
     "full_name": "nestjs/nest",
-    "stargazers_count": 51515,
-    "open_issues_count": 99,
-    "forks_count": 6043
+    "stargazers_count": 51589,
+    "open_issues_count": 108,
+    "forks_count": 6062
   },
   {
     "full_name": "kalkayan/dotfiles",
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "viraptor/reverse-interview",
-    "stargazers_count": 24277,
+    "stargazers_count": 24301,
     "open_issues_count": 24,
-    "forks_count": 1876
+    "forks_count": 1877
   },
   {
     "full_name": "cboard-org/cboard",
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "FormidableLabs/react-native-app-auth",
-    "stargazers_count": 1552,
+    "stargazers_count": 1554,
     "open_issues_count": 72,
-    "forks_count": 391
+    "forks_count": 393
   },
   {
     "full_name": "yakkomajuri/react-from-scratch",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "infinitered/ignite",
-    "stargazers_count": 14357,
-    "open_issues_count": 40,
-    "forks_count": 1175
+    "stargazers_count": 14372,
+    "open_issues_count": 39,
+    "forks_count": 1176
   }
 ]
